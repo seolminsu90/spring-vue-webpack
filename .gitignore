@@ -29,3 +29,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### webpack ###
+/frontend/node_modules
+/static
+static/
+**/src/main/resources/static
+dist/*
+*.log
+
