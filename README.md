@@ -14,8 +14,11 @@ npm run build --> 완성품 빌드
 
 
 #### 1. Spring project 생성
+
 #### 2. Root folder에서 명령 입력
+
 vue init webpack frontend
+
 npm install --save-dev babel-loader babel-core babel-preset-env
 
 *아직 잘 이해는 못하겠다.(..)
