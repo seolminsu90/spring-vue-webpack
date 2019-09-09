@@ -34,7 +34,7 @@ build/
 /frontend/node_modules
 /static
 static/
-!**/src/main/resources/static
+!**/src/main/resources/static/**
 dist/*
 *.log
 
