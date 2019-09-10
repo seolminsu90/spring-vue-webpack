@@ -6,7 +6,6 @@ import Item from '@/components/Item'
 Vue.use(Router)
 
 export default new Router({
-  name: 'Router',
   routes: [
     {
       path: '/user',
