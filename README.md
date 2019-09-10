@@ -18,7 +18,7 @@ npm run build --> 완성품 빌드
 
 #### 1. Spring project 생성
 
-#### 2. Root folder에서 명령 입력
+#### 2. Root folder에서 명령 입력 - 프론트엔드 
 
 vue init webpack frontend
 
