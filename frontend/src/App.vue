@@ -3,7 +3,7 @@
     <p>{{message}}</p>
     <ul>
       <li v-on:click="movePage('User')">User</li>
-      <li v-on:click="movePage('Item')">Item</li>
+      <li><router-link v-bind:to="{ name: 'Item' }">Item</router-link></li>
     </ul>
     <p v-on:click="getRequest">Greeting !</p>
     <router-view/>
