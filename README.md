@@ -20,6 +20,8 @@ npm run build --> 완성품 빌드
 
 #### 2. Root folder에서 명령 입력 - 프론트엔드 
 
+npm install -g vue-cli
+
 vue init webpack frontend
 
 cd frontend
