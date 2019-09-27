@@ -22,6 +22,7 @@ npm run build --> 완성품 빌드
 
 #### 2. Root folder에서 명령 입력 - 프론트엔드 
 
+```bash
 npm install -g vue-cli
 
 vue init webpack frontend
@@ -34,4 +35,7 @@ npm install --save vuex
 
 npm install --save es6-promise
 
+```
+
 * 아직 잘 이해는 못하겠다.(..)
+* es-lint 체크는 제외해버리는게 편하겠다.
