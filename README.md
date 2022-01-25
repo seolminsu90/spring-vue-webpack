@@ -24,6 +24,7 @@ npm run build --> 완성품 빌드
 
 ```bash
 npm install -g vue-cli
+--> npm install @vue/cli-init -g
 
 vue init webpack frontend
 
